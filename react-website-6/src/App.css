@@ -1,0 +1,6 @@
+.App{
+    height: 100vh;
+    background-image: url("./components/images/bg.png");
+    background-position: center center;
+    background-size: cover;
+}

@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+/*first part*/
+
+.first-part  h1{
+    font-size: 40px;
+}
+
+.dsign-today{
+    font-size: 2rem;
+}
+
+.img-2-container{
+    background: #a66000;
+    width: 400px;
+    height: 400px;
+}
+
+.img-2-container .image-2{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+/*second part*/
+.content{
+    background: #a66000;
+    width: 398px;
+    height: 497px;
+}
+
+.img-1-container {    
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.shop-btn{
+    padding-top: 220px;
+}

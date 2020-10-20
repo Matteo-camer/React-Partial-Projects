@@ -1,0 +1,49 @@
+.container{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 150px;
+}
+
+.theme{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    background: #026e78;
+    color: #fff;
+    font-weight: 200;
+    font-size: 3rem;
+    width: 450px;
+    font-weight: normal;
+}
+
+.ft-link{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    margin-top: 50px;
+    background: #fff;
+    width: 200px;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+.ft-link .book-table{
+    color: #2d99a4;
+    text-decoration: none;
+}
+
+.last-link{
+    padding: 1rem;
+    background: #2d99a4;
+    font-weight: normal;
+    font-size: 2rem;
+    width: 230px;
+    margin-top: 30px;
+}
+
+.last-link .view-menu{
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}

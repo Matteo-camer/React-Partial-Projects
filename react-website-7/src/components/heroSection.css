@@ -1,0 +1,59 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card{
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-right: 20px;
+}
+
+.card-header .pic{
+    padding: 1rem 2rem;
+}
+
+.card-header .pic img{
+    width: 250px;
+    height: 200px;
+}
+
+.card-body h2{
+    font-size: 2rem;
+    text-align: center;
+    color: #fff;
+}
+
+.card-body .turquoise{
+    color: #00d69f;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.card-body .red{
+    color: #e75050;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.card-body .orange{
+    color: #d27752;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: center;
+}
+
+.card-footer .link{
+    background: #fff;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: 0;
+}

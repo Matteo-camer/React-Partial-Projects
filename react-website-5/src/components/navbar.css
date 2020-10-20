@@ -1,0 +1,49 @@
+.header-1{
+    text-align: center;
+    color: #000 !important;
+}
+
+.theme i{
+    font-size: 3rem;
+    margin-right: 1rem;
+}
+
+.fas {
+    font-weight: 900;
+}
+
+.theme span{
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem 0 0.5rem;
+}
+
+.public-time p{
+    font-weight: bold;
+}
+
+/*navigation*/
+
+.header-2{
+    width: 1000px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.header-2 ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-bottom: 2px solid #c4c4c4;
+    border-top: 2px solid #c4c4c4;
+}
+
+.header-2 ul li{
+    list-style: none;
+}
+
+.header-2 ul li .link{
+    color: #000;
+}

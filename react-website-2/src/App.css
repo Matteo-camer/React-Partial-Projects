@@ -1,0 +1,8 @@
+@import '<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">';
+
+.App{
+    background-image:  url("car-bg.jpg");
+    background-position: center;
+    height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+}

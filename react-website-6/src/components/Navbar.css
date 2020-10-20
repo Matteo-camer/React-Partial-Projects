@@ -1,0 +1,52 @@
+.row-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.row-1 .logo{
+    color: #026e78;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.row-1 .call-us .call-us-num{
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.row-2 ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.row-2 ul li{
+    list-style-type: none;
+    padding: 1rem 3rem;
+}
+
+.row-2 ul li .cloned{
+    color: #fff;
+    text-decoration: none;
+}
+
+.row-2 ul .active{
+    background: #fff;
+}
+
+.row-2 ul .active .cloned-i{
+    color: #026e78;
+    text-decoration: none;
+}
+
+.row-2 .inactive{
+    background: #026e78;
+}
+
+.row-2 .inactive .cloned-f{
+    color: #fff;
+    text-decoration: none;
+}

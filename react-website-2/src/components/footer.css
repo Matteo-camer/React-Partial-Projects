@@ -1,0 +1,18 @@
+.footer{
+    color: white;
+    background: #000;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    margin-top: 60px;
+    font-weight: bold;
+    min-height: 110px;
+}
+
+.footer-item > p:nth-child(1){
+    color: #00c2ff;
+}
+
+.footer-item{
+    align-self: center;
+}

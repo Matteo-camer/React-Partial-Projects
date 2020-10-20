@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.logo{
+    padding-right: 100px;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.routes{
+    padding-left: 150px;
+    display: flex;
+}
+
+.active{
+    background: #00c2ff;
+}
+
+.routes .nav-item{
+    padding: 16px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

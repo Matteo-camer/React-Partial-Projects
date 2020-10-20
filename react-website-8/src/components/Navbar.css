@@ -1,0 +1,55 @@
+.header{
+    background: #000;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    height: 100vh;
+    width: 300px;
+    padding-left: 30px;
+}
+
+/*first link*/
+
+.fst-link{
+    padding-bottom: 17px;
+}
+
+.fst-link .explore{
+    font-size: 2rem;
+    background: #feab51;
+    color: #000;
+    text-decoration: none;
+    padding: 1rem 4rem;
+}
+
+/*last link*/
+
+.lst-link{
+    padding-top: 20px;
+}
+
+.lst-link .learn-more{
+    font-size: 2rem;
+    background: #feab51;
+    color: #000;
+    text-decoration: none;
+    padding: 1rem 2.5rem;
+}
+
+.list-menu ul{
+    padding-left: 0;
+}
+
+.list-menu ul li{
+    list-style-type: none;
+    padding: 0.3rem;
+    margin: 0.5px;
+}
+
+.list-menu ul li .list-item{
+    font-size: 2rem;
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+header{
+    padding-top: 50px;
+}
+
+.tshirt .fa-tshirt{
+    color: #764400;
+    font-size: 60px;
+}
+
+.header-row{
+    font-size: 30px;
+    color: #a66000;
+    display: flex;	
+}
+
+.header-row .btn-visit-us{
+    padding-left: 280px;
+    padding-top: 50px;
+}

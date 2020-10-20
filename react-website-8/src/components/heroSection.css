@@ -1,0 +1,23 @@
+.container{
+    top: 50px;
+    float: right;
+    position: absolute;
+    left: 350px;
+}
+.container .logo i{
+    margin: 0;
+    color: #fff;
+    font-size: 45px;
+}
+
+.container .title h1{
+    margin: 0;
+    color: #fff;
+    font-size: 85px;
+}
+
+.container .subtitle h3{
+    margin: 0;
+    color: #feab51;
+    font-size: 45px;
+}
